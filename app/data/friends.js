@@ -2,7 +2,7 @@
 var friends = [
   {
     name: "Mart",
-    photo: "./images/mart.jpg",
+    photo: "../images/mart.jpg",
     scores: [
       "5",
       "1",
@@ -18,7 +18,7 @@ var friends = [
   },
   {
     name: "Kyle",
-    photo: "./images/kyle.jpg",
+    photo: "../images/kyle.jpg",
     scores: [
       "4",
       "2",
@@ -34,7 +34,7 @@ var friends = [
   },
   {
     name: "Lana",
-    photo: "./images/lana.jpg",
+    photo: "../images/lana.jpg",
     scores: [
       "5",
       "2",
@@ -50,7 +50,7 @@ var friends = [
   },
   {
     name: "Kim",
-    photo: "./images/kim.jpg",
+    photo: "../images/kim.jpg",
     scores: [
       "3",
       "3",
@@ -66,7 +66,7 @@ var friends = [
   },
   {
     name: "Kate",
-    photo: "./images/kate.jpg",
+    photo: "../images/kate.jpg",
     scores: [
       "4",
       "3",
@@ -82,7 +82,7 @@ var friends = [
   },
   {
     name: "Billy",
-    photo: "./images/billy.jpg",
+    photo: "../images/billy.jpg",
     scores: [
       "4",
       "4",

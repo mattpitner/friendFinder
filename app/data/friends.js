@@ -6,7 +6,7 @@ var friends = [
     scores: [
       "1",
       "1",
-      "1", 
+      "1",
       "1",
       "1",
       "1",
@@ -18,7 +18,7 @@ var friends = [
   },
   {
     name: "Kyle",
-    photo: "../images/kyle.jpg",
+    photo: "https://us.123rf.com/450wm/mimagephotography/mimagephotography1511/mimagephotography151100038/48581692-close-up-horizontal-portrait-of-a-serious-man-with-beard-isolated-on-white-background.jpg?ver=6",
     scores: [
       "4",
       "2",
@@ -34,7 +34,7 @@ var friends = [
   },
   {
     name: "Lana",
-    photo: "../images/lana.jpg",
+    photo: "https://images.pexels.com/photos/1036623/pexels-photo-1036623.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     scores: [
       "5",
       "2",
@@ -50,7 +50,7 @@ var friends = [
   },
   {
     name: "Kim",
-    photo: "../images/kim.jpg",
+    photo: "https://images.pexels.com/photos/638700/pexels-photo-638700.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     scores: [
       "3",
       "3",
@@ -66,7 +66,7 @@ var friends = [
   },
   {
     name: "Kate",
-    photo: "../images/kate.jpg",
+    photo: "https://media.istockphoto.com/photos/beautiful-woman-with-natural-makeup-picture-id897056188?k=6&m=897056188&s=612x612&w=0&h=1VjRTM_c5f3wOOR1vLNdj_RIms9wyk4VVHQ3v_l8iuU=",
     scores: [
       "4",
       "3",
@@ -82,7 +82,7 @@ var friends = [
   },
   {
     name: "Billy",
-    photo: "../images/billy.jpg",
+    photo: "https://ak3.picdn.net/shutterstock/videos/4849793/thumb/1.jpg",
     scores: [
       "4",
       "4",
